@@ -5,7 +5,7 @@
 适合关键词研究、链接分析等多种功能的一站式工具：
 
 - [Ahrefs](https://ahrefs.com/) - 关键词研究、链接分析、内容优化全方位支持。
-- [SEMrush](https://www.semrush.com/) - 关键词、内容、竞品、PPC、社交媒体全覆盖。
+- [semrush](https://www.semrush.com/) - 关键词、内容、竞品、PPC、社交媒体全覆盖。
 - [Moz Pro](https://moz.com/) - 提升流量、排名和可见性的SEO软件。
 - [SERanking](https://seranking.com/) - 面向机构的全能SEO工具。
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - 简单易用的SEO工具，适合新手。
