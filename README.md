@@ -9,6 +9,8 @@
 - [Moz Pro](https://moz.com/) - 提升流量、排名和可见性的SEO软件。
 - [SERanking](https://seranking.com/) - 面向机构的全能SEO工具。
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - 简单易用的SEO工具，适合新手。
+- [Serplux](https://www.serplux.com/) - 关键词、内容、竞品社交媒体全覆盖。
+- 
 
 ---
 
@@ -21,6 +23,9 @@
 - [AnswerThePublic](https://answerthepublic.com/) - 直观展示用户搜索问题的关键词工具。
 - [Ahrefs' Keywords Generator](https://ahrefs.com/keyword-generator) - 提供海量关键词推荐。
 - [Semrush's Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - 专业的关键词推荐工具。
+- [Serplux's Keyword Analyser Tool](https://serplux.com/premium/agent/keyword-analyser) - 专业的关键词推荐工具。
+- 
+- 
 
 ---
 
@@ -40,6 +45,8 @@
 - [Yoast SEO](https://yoast.com/) - WordPress用户的必备SEO插件。
 - [SurferSEO](https://surferseo.com/) - 提供SEO内容优化的工作流。
 - [Clearscope](https://www.clearscope.io/) - 内容优化的高效工具。
+- [Serplux](https://serplux.com/) - 提供SEO内容优化的工作流。
+- 
 
 ---
 
