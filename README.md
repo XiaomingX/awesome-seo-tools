@@ -1,97 +1,99 @@
-# awesome-seo-tools ( 精选SEO工具列表 )
+# Awesome SEO Tools (2025-2026 精选版)
 
-## 全能型SEO工具
+## 🤖 AI 与智能辅助工具 (New!)
 
-适合关键词研究、链接分析等多种功能的一站式工具：
+利用人工智能加速内容创作、大纲生成及意图分析：
 
-- [Ahrefs](https://ahrefs.com/) - 关键词研究、链接分析、内容优化全方位支持。
-- [semrush](https://www.semrush.com/) - 关键词、内容、竞品、PPC、社交媒体全覆盖。
-- [Moz Pro](https://moz.com/) - 提升流量、排名和可见性的SEO软件。
-- [SERanking](https://seranking.com/) - 面向机构的全能SEO工具。
-- [Ubersuggest](https://neilpatel.com/ubersuggest/) - 简单易用的SEO工具，适合新手。
+* [ChatGPT](https://chat.openai.com/) - SEO 人的必备助手，用于关键词头脑风暴、撰写 Meta 标签、生成内容大纲及正则代码。
+* [Perplexity AI](https://www.perplexity.ai/) - 实时联网的 AI 搜索引擎，适合调研搜索意图和获取最新素材。
+* [Claude](https://claude.ai/) - 处理长文本能力极强，适合分析长篇内容和优化文章逻辑。
 
 ---
 
-## 关键词研究工具
+## 🛠 全能型 SEO 工具
 
-帮助挖掘高潜力关键词：
+适合关键词研究、链接分析、排名追踪的一站式平台：
 
-- [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Google官方提供的免费关键词研究工具。
-- [Keyword Tool](https://keywordtool.io/) - 基于Google自动补全的关键词工具。
-- [AnswerThePublic](https://answerthepublic.com/) - 直观展示用户搜索问题的关键词工具。
-- [Ahrefs' Keywords Generator](https://ahrefs.com/keyword-generator) - 提供海量关键词推荐。
-- [Semrush's Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - 专业的关键词推荐工具。
-
----
-
-## 外链分析工具
-
-深入分析外链，发现优化机会：
-
-- [Majestic](https://majestic.com/) - 专注于外链的分析工具。
-- [Monitor Backlinks](https://monitorbacklinks.com/) - 轻松管理好坏外链。
+* [Ahrefs](https://ahrefs.com/) - 业界数据最全的工具之一，外链分析和内容差距分析功能极强。
+* [Semrush](https://www.semrush.com/) - 综合能力最强，覆盖 SEO、PPC、社媒，且拥有强大的意图分析功能。
+* [SE Ranking](https://seranking.com/) - **(高性价比推荐)** 功能接近 Ahrefs/Semrush 但价格更亲民，适合中小团队。
+* [Ubersuggest](https://neilpatel.com/ubersuggest/) - 界面友好，适合新手和预算有限的个人站长。
 
 ---
 
-## 内容优化工具
+## 🔑 关键词研究工具
 
-优化内容以满足搜索算法和用户需求：
+挖掘长尾词与用户搜索意图：
 
-- [Yoast SEO](https://yoast.com/) - WordPress用户的必备SEO插件。
-- [SurferSEO](https://surferseo.com/) - 提供SEO内容优化的工作流。
-- [Clearscope](https://www.clearscope.io/) - 内容优化的高效工具。
-
----
-
-## 排名追踪工具
-
-实时监控网站搜索排名的变化：
-
-- [SERPWatcher](https://serpwatch.io/) - 专为市场营销和机构设计的排名追踪工具。
-- [AccuRanker](https://www.accuranker.com/) - 精确快速的排名监控工具。
+* [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - 官方免费工具，数据最权威，适合查看搜索量基数。
+* [Keywords Everywhere](https://keywordseverywhere.com/) - 浏览器插件，在 Google 搜索结果页直接显示搜索量和 CPC 数据。
+* [AnswerThePublic](https://answerthepublic.com/) - 可视化展示用户“提问”和“长尾修饰词”，通过了解用户痛点来挖掘话题。
+* [LowFruits](https://lowfruits.io/) - **(挖掘蓝海词神器)** 专门用于发现大站尚未覆盖的低竞争长尾关键词。
 
 ---
 
-## 技术SEO工具
+## 📝 内容优化与写作工具
 
-确保网站技术基础符合搜索引擎和用户体验标准：
+基于 SERP 数据优化内容，提升排名概率：
 
-- [Google Search Console](https://search.google.com/search-console/about) - 免费的Google官方工具，用于监控和优化网站的搜索表现。
-- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/#spider-features) - 高效的网站SEO抓取工具。
-- [Siteliner](https://www.siteliner.com/) - 检测重复内容、断链等问题。
-
----
-
-## 本地SEO工具
-
-提升本地搜索可见度，吸引社区用户：
-
-- [BrightLocal](https://www.brightlocal.com/local-seo-tools/) - 本地SEO优化的完整平台。
-- [Moz Local](https://moz.com/products/local) - 提升本地SEO可见性的工具。
+* [Surfer SEO](https://surferseo.com/) - 基于数据分析的页面优化工具，通过对比首页竞品给出详细的内容修改建议。
+* [Frase](https://www.frase.io/) - 强大的 AI 写作与优化工具，能快速生成基于搜索结果的内容简报。
+* [Yoast SEO](https://yoast.com/) / [Rank Math](https://rankmath.com/) - WordPress 必备插件，Rank Math 近年来因功能丰富（含 Schema）更受欢迎。
 
 ---
 
-## 浏览器SEO扩展
+## ⚙️ 技术 SEO 工具
 
-快速获取SEO洞察，随时随地优化网站：
+确保网站结构、抓取和索引无障碍：
 
-- [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) - 支持页面分析、断链检查等功能。
-- [SEOquake](https://www.seoquake.com/index.html) - 功能强大的SEO浏览器工具。
-
----
-
-## 验证和检查工具
-
-检查并优化技术问题：
-
-- [Broken Link Checker](https://www.brokenlinkcheck.com/) - 快速检测网站断链。
-- [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - 检查robots.txt文件是否正确。
+* [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - **(业内标准)** 强大的爬虫工具，用于检测死链、重定向、标题缺失等技术问题。
+* [Google Search Console](https://search.google.com/search-console/about) - 官方必备，监控索引状态、点击率及 Core Web Vitals 表现。
+* [Lumar](https://www.lumar.io/) (原 DeepCrawl) - 企业级云端爬虫，适合百万级页面的大型网站技术监测。
+* [Schema Markup Generator](https://technicalseo.com/tools/schema-markup-generator/) - 免费工具，快速生成结构化数据代码（JSON-LD）。
 
 ---
 
-## 性能分析工具
+## 🔗 外链分析工具
 
-提升网站速度和用户体验：
+监控外链健康度与竞品策略：
 
-- [GTmetrix](https://gtmetrix.com/) - 提供全面的速度分析报告。
-- [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - 检测页面加载速度和SEO优化建议。
+* [Majestic](https://majestic.com/) - 拥有历史悠久的外链索引库，Trust Flow (TF) 指标极具参考价值。
+* [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker) - 目前公认更新最快、抓取能力最强的外链数据库。
+
+---
+
+## 📊 排名追踪工具
+
+精准监控关键词每日排名波动：
+
+* [SERPWatcher](https://mangools.com/serpwatcher/) - Mangools 旗下工具，界面极简，关注“主导力指数”。
+* [AccuRanker](https://www.accuranker.com/) - 速度极快，支持按需刷新排名，适合大型机构。
+* [ProRankTracker](https://proranktracker.com/) - 报表功能强大，排名追踪精准。
+
+---
+
+## 📍 本地 SEO 工具
+
+提升 Google 地图排名与本地商家曝光：
+
+* [BrightLocal](https://www.brightlocal.com/) - 本地引文（Citation）建设与监控最全面的工具。
+* [Google Business Profile](https://www.google.com/business/) - Google 商家档案，本地 SEO 的核心。
+
+---
+
+## 🧩 浏览器 SEO 扩展 (强烈推荐)
+
+无需打开软件，浏览网页时即刻查看数据：
+
+* [Detailed SEO Extension](https://www.google.com/search?q=https://chrome.google.com/webstore/detail/detailed-seo-extension/pfjdepjjfctbkkjenheligmijakprfoh) - **(目前最佳)** 一键查看 Title、Description、Heading 层级、Canonical 标签及 Schema，轻量且免费。
+* [SEO Minion](https://www.google.com/search?q=https://seo-minion.com/) - 支持 SERP 预览、死链检查及 Google 搜索结果位置模拟。
+* [Link Redirect Trace](https://www.google.com/search?q=https://chrome.google.com/webstore/detail/link-redirect-trace/nehkkmjoljicecfdmicddggliaedjpfh) - 专门用于检查 HTTP header、重定向链（301/302）的硬核插件。
+
+---
+
+## ⚡ 性能与体验分析
+
+针对 Core Web Vitals（核心网页指标）进行优化：
+
+* [PageSpeed Insights](https://pagespeed.web.dev/) - Google 官方工具，针对 LCP、INP、CLS 等核心指标提供改进建议。
+* [GTmetrix](https://gtmetrix.com/) - 提供可视化的瀑布流加载图，帮助定位拖慢网速的具体文件。
