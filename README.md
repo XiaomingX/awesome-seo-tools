@@ -12,6 +12,7 @@
 * [Kimi (Moonshot AI)](https://kimi.moonshot.cn/) - **(长文本处理王者)** 支持 20 万字超长上下文，极其擅长文档阅读、资料整理和长文创作。
 * [MiniMax (Hailuo AI)](https://hailuoai.com/) - **(海螺 AI)** 拟人化程度极高，语音合成效果惊艳，适合文案创作和角色扮演。
 * [StepFun (Jieyue Xingchen)](https://www.stepfun.com/) - **(阶跃星辰)** 多模态能力出色，旗下 Step 系列模型在图像理解和生成方面表现优异。
+* [Zhipu AI (ChatGLM)](https://chatglm.cn/) - **(智谱清言)** 源自清华系技术团队，GLM 系列模型开源贡献巨大，中文语义理解与逻辑推理能力强劲。
 * [Kling AI (Keling)](https://klingai.kuaishou.com/) - **(可灵 AI)** 快手出品的视频生成模型，效果对标 Sora，生成视频流畅度与物理规律符合度极高。
 
 ---
@@ -133,9 +134,6 @@
 * [Apache Superset](https://github.com/apache/superset) - 企业级 BI 工具，适合搭建跨渠道的 SEO 与营销数据看板。
 
 ### 生成式引擎优化 (GEO & LLM Optimization)
-* [AutoGEO](https://github.com/topics/generative-engine-optimization) - 自动优化内容以适应生成式搜索引擎的框架。
-* [GetCito](https://github.com/topics/generative-engine-optimization) - 开源的 AI 搜索优化 (AIO) 与问答引擎优化 (AEO) 工具。
-* [AI Monitor](https://github.com/topics/generative-engine-optimization) - 追踪品牌在 AI 问答（如 ChatGPT, Perplexity）中的提及情况。
 * [llms.txt Generators](https://github.com/topics/llms-txt) - 生成 `llms.txt` 文件，帮助大模型更好地理解网站结构。
 
 ### 调研与多维表格 (Survey & Multidimensional Databases)
@@ -149,8 +147,48 @@
 * [GOautodial](https://github.com/goautodial/goautodial) - 基于 VICIdial 的现代化全渠道联络中心套件，界面更友好。
 * [Chatwoot](https://github.com/chatwoot/chatwoot) - 开源客户互动套件，Intercom/Zendesk 的替代品。
 
+
 ### 垂直行业 SaaS (Industry Specific SaaS)
 * **Hotel**: [QloApps](https://github.com/Qloapps/QloApps) - 热门的开源酒店预订与管理系统。
 * **Restaurant**: [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) - 专为餐厅设计的在线订餐与管理平台。
 * **Retail**: [FluentPOS](https://github.com/fluentpos/fluentpos) - 基于 Angular 和 .NET 构建的现代化开源 POS 系统。
 * **Retail**: [InvenTree](https://github.com/inventree/InvenTree) - 强大的开源库存管理系统，适合零部件追踪。
+
+### 基础设施与数据库 (Infrastructure & Database)
+* **Cloud**: [Hetzner](https://www.hetzner.com/) - **(高性价比)** 德国老牌服务商，以极高的价格性能比著称，适合自托管。
+* **Database**: [Supabase](https://github.com/supabase/supabase) - Firebase 的开源替代品，基于 Postgres，内置 Auth 和 Realtime。
+* **Database**: [Neon](https://github.com/neondatabase/neon) - Serverless Postgres，支持计算存储分离和秒级分支克隆。
+* **Database**: [PlanetScale](https://github.com/planetscale/vitess) - 基于 Vitess 的 Serverless MySQL，天生支持水平分片。
+* **Message Queue**: [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) - 最广泛使用的开源消息代理，支持多种协议。
+* **Message Queue**: [Apache Kafka](https://github.com/apache/kafka) - 高吞吐量的分布式事件流平台，适合大规模数据管道。
+* **Cache**: [Redis](https://github.com/redis/redis) - 事实标准的内存数据结构存储，用作数据库、缓存和消息代理。
+* **Cache**: [Dragonfly](https://github.com/dragonflydb/dragonfly) - 现代化的 Redis 替代品，针对多线程无共享架构优化，性能极高。
+* **Search**: [Elasticsearch](https://github.com/elastic/elasticsearch) - 分布式 RESTful 搜索和分析引擎，全文搜索的行业标准。
+* **Search**: [Meilisearch](https://github.com/meilisearch/meilisearch) - **(推荐)** 轻量级、极速且易于部署的搜索引擎，适合构建即时搜索体验。
+* **Logging**: [Grafana Loki](https://github.com/grafana/loki) - 类似 Prometheus 的日志聚合系统，专为云原生环境设计，高效且低成本。
+* **Logging**: [Graylog](https://github.com/Graylog2/graylog2-server) - 强大的集中式日志管理平台，提供快速的搜索和分析功能。
+* **Monitoring**: [Prometheus](https://github.com/prometheus/prometheus) - 事实标准的系统监控和报警工具，拥有活跃的生态系统。
+* **Monitoring**: [Grafana](https://github.com/grafana/grafana) - 终极的可视化分析平台，支持从 Prometheus、Loki 等多种数据源展示数据。
+* **Monitoring**: [Uptime Kuma](https://github.com/louislam/uptime-kuma) - **(推荐)** 颜值极高的自托管监控工具，类似 Uptime Robot，支持状态页。
+
+### 移动端与流量估算 (Mobile & Traffic Estimation)
+* **Mobile Stats**: [Countly](https://github.com/Countly/countly-server) - 领先的开源移动分析平台，提供应用内用户行为追踪和崩溃分析。
+* **Mobile Stats**: [Aptabase](https://github.com/aptabase/aptabase) - 极简的开源移动端分析工具，专注隐私，支持 Swift/Kotlin/React Native。
+* **ASO Tool**: [aso (Node.js)](https://github.com/facundoolano/aso) - 强大的 App Store/Google Play 搜索建议与排名数据抓取库。
+* **Traffic Est**: [Open Web Analytics](https://github.com/OpenWebAnalytics/owa) - 类似 Google Analytics 的开源版，支持热图和鼠标追踪，用于自身流量精细分析。
+* **Competitor**: [SerpBear](https://github.com/towfiqi/serpbear) - **(最佳平替)** 基于“关键词排名 x 搜索量”模型来估算竞品流量，最接近 Semrush 核心逻辑的开源工具。
+
+### AI 搜索优化 (AIO & AEO)
+* [GetCito](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool) - 世界上首个专注于 AIO/AEO 和生成式引擎优化 (GEO) 的开源工具。
+* [AutoGEO](https://github.com/topics/generative-engine-optimization) - 自动化优化内容以适应生成式搜索引擎的框架。
+* [AI Monitor](https://github.com/topics/generative-engine-optimization) - 追踪品牌在 ChatGPT、Perplexity 等 AI 平台中的提及情况。
+
+### 内部工具构建 (Internal Tools)
+* [Appsmith](https://github.com/appsmithorg/appsmith) - **(最流行)** 开发者优先的开源内部工具构建平台，支持拖拽 UI 和 JS 逻辑。
+* [ToolJet](https://github.com/ToolJet/ToolJet) - 扩展性极强的低代码框架，支持 Python/JS，拥有丰富的集成插件。
+* [Budibase](https://github.com/Budibase/budibase) - 专注于速度和易用性，通过简单的 GUI 快速构建 CRUD 应用。
+
+### 在线 IDE 与开发环境 (Online IDEs)
+* [Coder](https://github.com/coder/coder) - **(自托管)** 在自己的基础设施（Kubernetes/Docker）上部署远程开发环境。
+* [Gitpod](https://github.com/gitpod-io/gitpod) - 自动化的云端开发环境，通过代码定义环境 (`.gitpod.yml`)。
+* [CodeSandbox](https://github.com/codesandbox/codesandbox-client) - 即开即用的云端开发环境，特别适合前端框架开发。
