@@ -97,3 +97,37 @@
 
 * [PageSpeed Insights](https://pagespeed.web.dev/) - Google 官方工具，针对 LCP、INP、CLS 等核心指标提供改进建议。
 * [GTmetrix](https://gtmetrix.com/) - 提供可视化的瀑布流加载图，帮助定位拖慢网速的具体文件。
+
+---
+
+## 🐧 开源与自托管替代方案 (Open Source / Self-Hosted)
+
+不想依赖昂贵的商业软件？这里有一些优秀的开源替代品：
+
+### 流量分析 (SimilarWeb Alternatives)
+* [Matomo](https://matomo.org/) - 谷歌分析的开源替代品，支持私有化部署，数据完全掌握在自己手中。
+* [Plausible Analytics](https://plausible.io/) - 轻量级、无 Cookie 的隐私友好型统计工具。
+* [Umami](https://umami.is/) - 简单、快速、注重隐私的自托管分析方案。
+* [PostHog](https://posthog.com/) - 专为产品开发设计的分析平台，包含热图、录屏等高级功能。
+
+### 排名追踪 (Rank Tracking)
+* [SerpBear](https://github.com/towfiqi/serpbear) - 开源的搜索引擎排名追踪工具，支持 GSC 集成和无限关键词。
+
+### SEO 管理与审计
+* [SEO Panel](https://www.seopanel.org/) - 老牌开源 SEO 控制面板，集成了外链检查、排名监控和审计功能。
+* [SEO Macroscope](https://github.com/nazuke/SEOMacroscope) - 免费的 Windows 桌面端网站爬虫，用于链接检查和技术审计。
+
+### CRM & ERP for SEO
+* [SuiteCRM](https://github.com/salesagility/SuiteCRM) - 高度可定制的开源 CRM，适合管理 SEO 客户和外链建设流程。
+* [EspoCRM](https://github.com/espocrm/espocrm) - 轻量快速，适合代理商管理潜在客户和与 SEO 相关的项目。
+* [ERPNext](https://github.com/frappe/erpnext) - 全功能开源 ERP，内置对 SEO 友好的建站模块（Sitemap/Meta 标签控制）。
+* [Odoo](https://github.com/odoo/odoo) - 拥有强大的网站构建器模块，生成代码结构清晰，利于 SEO。
+
+### 达人与社媒指标 (Influencer & Social Metrics)
+* [HypeIt](https://github.com/Ismriti12/HypeIt-Influencer-Marketing-Platform) - 开源红人通过营销平台，用于发现达人和管理营销活动。
+* [Worfinsta](https://github.com/amitascra/worfinsta) - 基于 Django 的网红营销管理平台。
+
+### 营销效果监控 (Marketing Monitoring)
+* [Mautic](https://github.com/mautic/mautic) - 世界著名的开源营销自动化平台，内置邮件与着陆页的效果追踪。
+* [Apache Superset](https://github.com/apache/superset) - 企业级 BI 工具，适合搭建跨渠道的 SEO 与营销数据看板。
+* [OpenAttribution](https://github.com/OpenAttribution/open-attribution) - 开源的移动应用归因平台 (MMP)，用于追踪广告投放 ROI。
