@@ -1,4 +1,4 @@
-# Awesome SEO Tools (2025-2026 精选版)
+# Awesome SEO Tools (2026 精选版)
 
 ## 🤖 AI 与智能辅助工具 (New!)
 
@@ -7,6 +7,12 @@
 * [ChatGPT](https://chat.openai.com/) - SEO 人的必备助手，用于关键词头脑风暴、撰写 Meta 标签、生成内容大纲及正则代码。
 * [Perplexity AI](https://www.perplexity.ai/) - 实时联网的 AI 搜索引擎，适合调研搜索意图和获取最新素材。
 * [Claude](https://claude.ai/) - 处理长文本能力极强，适合分析长篇内容和优化文章逻辑。
+
+### 🇨🇳 国产顶尖大模型 (Leading Chinese AI Models)
+* [Kimi (Moonshot AI)](https://kimi.moonshot.cn/) - **(长文本处理王者)** 支持 20 万字超长上下文，极其擅长文档阅读、资料整理和长文创作。
+* [MiniMax (Hailuo AI)](https://hailuoai.com/) - **(海螺 AI)** 拟人化程度极高，语音合成效果惊艳，适合文案创作和角色扮演。
+* [StepFun (Jieyue Xingchen)](https://www.stepfun.com/) - **(阶跃星辰)** 多模态能力出色，旗下 Step 系列模型在图像理解和生成方面表现优异。
+* [Kling AI (Keling)](https://klingai.kuaishou.com/) - **(可灵 AI)** 快手出品的视频生成模型，效果对标 Sora，生成视频流畅度与物理规律符合度极高。
 
 ---
 
@@ -86,8 +92,6 @@
 无需打开软件，浏览网页时即刻查看数据：
 
 * [Detailed SEO Extension](https://www.google.com/search?q=https://chrome.google.com/webstore/detail/detailed-seo-extension/pfjdepjjfctbkkjenheligmijakprfoh) - **(目前最佳)** 一键查看 Title、Description、Heading 层级、Canonical 标签及 Schema，轻量且免费。
-* [SEO Minion](https://www.google.com/search?q=https://seo-minion.com/) - 支持 SERP 预览、死链检查及 Google 搜索结果位置模拟。
-* [Link Redirect Trace](https://www.google.com/search?q=https://chrome.google.com/webstore/detail/link-redirect-trace/nehkkmjoljicecfdmicddggliaedjpfh) - 专门用于检查 HTTP header、重定向链（301/302）的硬核插件。
 
 ---
 
@@ -115,7 +119,7 @@
 
 ### SEO 管理与审计
 * [SEO Panel](https://www.seopanel.org/) - 老牌开源 SEO 控制面板，集成了外链检查、排名监控和审计功能。
-* [SEO Macroscope](https://github.com/nazuke/SEOMacroscope) - 免费的 Windows 桌面端网站爬虫，用于链接检查和技术审计。
+
 
 ### CRM & ERP for SEO
 * [SuiteCRM](https://github.com/salesagility/SuiteCRM) - 高度可定制的开源 CRM，适合管理 SEO 客户和外链建设流程。
@@ -123,11 +127,30 @@
 * [ERPNext](https://github.com/frappe/erpnext) - 全功能开源 ERP，内置对 SEO 友好的建站模块（Sitemap/Meta 标签控制）。
 * [Odoo](https://github.com/odoo/odoo) - 拥有强大的网站构建器模块，生成代码结构清晰，利于 SEO。
 
-### 达人与社媒指标 (Influencer & Social Metrics)
-* [HypeIt](https://github.com/Ismriti12/HypeIt-Influencer-Marketing-Platform) - 开源红人通过营销平台，用于发现达人和管理营销活动。
-* [Worfinsta](https://github.com/amitascra/worfinsta) - 基于 Django 的网红营销管理平台。
 
 ### 营销效果监控 (Marketing Monitoring)
 * [Mautic](https://github.com/mautic/mautic) - 世界著名的开源营销自动化平台，内置邮件与着陆页的效果追踪。
 * [Apache Superset](https://github.com/apache/superset) - 企业级 BI 工具，适合搭建跨渠道的 SEO 与营销数据看板。
-* [OpenAttribution](https://github.com/OpenAttribution/open-attribution) - 开源的移动应用归因平台 (MMP)，用于追踪广告投放 ROI。
+
+### 生成式引擎优化 (GEO & LLM Optimization)
+* [AutoGEO](https://github.com/topics/generative-engine-optimization) - 自动优化内容以适应生成式搜索引擎的框架。
+* [GetCito](https://github.com/topics/generative-engine-optimization) - 开源的 AI 搜索优化 (AIO) 与问答引擎优化 (AEO) 工具。
+* [AI Monitor](https://github.com/topics/generative-engine-optimization) - 追踪品牌在 AI 问答（如 ChatGPT, Perplexity）中的提及情况。
+* [llms.txt Generators](https://github.com/topics/llms-txt) - 生成 `llms.txt` 文件，帮助大模型更好地理解网站结构。
+
+### 调研与多维表格 (Survey & Multidimensional Databases)
+* [Typebot](https://github.com/baptisteArno/typebot.io) - 强大的可视化对话式表单构建器，适合营销获客。
+* [Formbricks](https://github.com/formbricks/formbricks) - 开源的 Qualtrics 替代品，适合产品体验管理和应用内微调查。
+* [NocoDB](https://github.com/nocodb/nocodb) - 将 MySQL/PostgreSQL 转化为智能电子表格，自托管的 Airtable 替代品。
+* [Baserow](https://github.com/bram2w/baserow) - 开源无代码数据库，界面友好，扩展性强。
+
+### 企业服务与呼叫中心 (Enterprise SaaS & Call Center)
+* [VICIdial](https://github.com/vicidial/vicidial) - 全球最流行的开源联络中心解决方案，支持预测式外呼。
+* [GOautodial](https://github.com/goautodial/goautodial) - 基于 VICIdial 的现代化全渠道联络中心套件，界面更友好。
+* [Chatwoot](https://github.com/chatwoot/chatwoot) - 开源客户互动套件，Intercom/Zendesk 的替代品。
+
+### 垂直行业 SaaS (Industry Specific SaaS)
+* **Hotel**: [QloApps](https://github.com/Qloapps/QloApps) - 热门的开源酒店预订与管理系统。
+* **Restaurant**: [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) - 专为餐厅设计的在线订餐与管理平台。
+* **Retail**: [FluentPOS](https://github.com/fluentpos/fluentpos) - 基于 Angular 和 .NET 构建的现代化开源 POS 系统。
+* **Retail**: [InvenTree](https://github.com/inventree/InvenTree) - 强大的开源库存管理系统，适合零部件追踪。
