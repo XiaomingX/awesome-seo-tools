@@ -107,7 +107,21 @@
 
 ## 🐧 开源与自托管替代方案 (Open Source / Self-Hosted)
 
-不想依赖昂贵的商业软件？这里有一些优秀的开源替代品：
+不想依赖昂贵的商业软件？这里有一些优秀的开源替代品。
+
+### 📚 深度集成与开发指南 (In-depth Guides)
+* **[Build your own Semrush](docs/build-your-own-semrush.md)** - 打造全能型 SEO 工具集。
+* **[Build your own SimilarWeb](docs/build-your-own-similarweb.md)** - 流量分析与竞争对手调研。
+* **[Build your own Ahrefs](docs/build-your-own-ahrefs.md)** - 深入理解外链与网络分析。
+* **[SEO Agency Management](docs/seo-agency-management.md)** - 代理商 CRM、ERP 与客户互动。
+* **[Marketing Analytics & Attribution](docs/marketing-analytics-and-attribution.md)** - 社媒、营销自动化与归因模型。
+* **[Search Optimization (AIO/AEO/GEO)](docs/search-optimization-aio-aeo-geo.md)** - 针对 AI 时代搜索的优化工具。
+* **[Surveys & Collaborative Databases](docs/surveys-and-collaborative-databases.md)** - 调研获客与多维表格管理。
+* **[Enterprise & Industry SaaS](docs/enterprise-and-industry-saas.md)** - 酒店、餐饮、零售及呼叫中心系统。
+* **[Cloud & Database Infrastructure](docs/cloud-infrastructure-and-databases.md)** - 推荐的高性价比基础设施方案。
+* **[Internal Tools & Online IDEs](docs/internal-tools-and-online-ides.md)** - 快速构建内部工具与云端开发。
+
+---
 
 ### 流量分析 (SimilarWeb Alternatives)
 * [Matomo](https://matomo.org/) - 谷歌分析的开源替代品，支持私有化部署，数据完全掌握在自己手中。

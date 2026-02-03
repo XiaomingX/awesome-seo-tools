@@ -1,4 +1,4 @@
-# Open Source CRM & ERP for SEO
+# SEO Agency Management (CRM & ERP)
 
 ## CRM for Agency Management & Outreach
 - **[SuiteCRM](https://github.com/salesagility/SuiteCRM)**: A highly customizable open-source CRM. Excellent for managing SEO clients, tracking link-building outreach, and customized reporting.
@@ -12,3 +12,5 @@
 ## Specialized / Agency-Focused
 - **[Dolibarr](https://github.com/Dolibarr/dolibarr)**: ERP & CRM for freelancers and small companies. Simple to host and good for managing billing/invoicing for SEO services.
 - **[YetiForce](https://github.com/YetiForceCompany/YetiForceCRM)**: A fork of Vtiger, heavily focused on data security and strict processes, suitable for agencies handling sensitive client data.
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)**: Open-source customer engagement suite. An alternative to Intercom, Zendesk, Salesforce Service Cloud.
+- **[Helpy](https://github.com/helpyio/helpy)**: Modern, mobile-first helpdesk customer support software.
