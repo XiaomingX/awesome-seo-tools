@@ -196,6 +196,7 @@
 * [GetCito](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool) - 世界上首个专注于 AIO/AEO 和生成式引擎优化 (GEO) 的开源工具。
 * [AutoGEO](https://github.com/topics/generative-engine-optimization) - 自动化优化内容以适应生成式搜索引擎的框架。
 * [AI Monitor](https://github.com/topics/generative-engine-optimization) - 追踪品牌在 ChatGPT、Perplexity 等 AI 平台中的提及情况。
+* [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - 开源本地优先 AI 可见性仪表盘。追踪品牌在 ChatGPT、Perplexity、Gemini、Copilot、Google AI Overview 和 Grok 中的提及。自带 API Key，完全自托管，月费 $0。(Open-source AI visibility dashboard, BYOK, self-hosted)
 
 ### 内部工具构建 (Internal Tools)
 * [Appsmith](https://github.com/appsmithorg/appsmith) - **(最流行)** 开发者优先的开源内部工具构建平台，支持拖拽 UI 和 JS 逻辑。
