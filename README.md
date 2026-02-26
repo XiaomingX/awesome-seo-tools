@@ -102,6 +102,7 @@
 
 * [PageSpeed Insights](https://pagespeed.web.dev/) - Google 官方工具，针对 LCP、INP、CLS 等核心指标提供改进建议。
 * [GTmetrix](https://gtmetrix.com/) - 提供可视化的瀑布流加载图，帮助定位拖慢网速的具体文件。
+* [PageGuard](https://pageguard.qiudeqiu.workers.dev) - 免费全能网站健康扫描器，30秒内生成 SEO、性能、无障碍、最佳实践综合报告，附 AI 行动建议及 REST API。
 
 ---
 
