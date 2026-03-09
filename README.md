@@ -7,6 +7,7 @@
 * [ChatGPT](https://chat.openai.com/) - SEO 人的必备助手，用于关键词头脑风暴、撰写 Meta 标签、生成内容大纲及正则代码。
 * [Perplexity AI](https://www.perplexity.ai/) - 实时联网的 AI 搜索引擎，适合调研搜索意图和获取最新素材。
 * [Claude](https://claude.ai/) - 处理长文本能力极强，适合分析长篇内容和优化文章逻辑。
+* [GEOScore](https://geoscoreai.com/) - 免费 AI 搜索可见性扫描器，检测网站在 ChatGPT、Perplexity、Gemini 等 AI 搜索引擎中的表现。提供 [AI Robots.txt 生成器](https://geoscoreai.com/tools/robots-txt-generator) 和 [AI 爬虫检查器](https://geoscoreai.com/tools/ai-crawler-checker) 免费工具。
 
 ### 🇨🇳 国产顶尖大模型 (Leading Chinese AI Models)
 * [Kimi (Moonshot AI)](https://kimi.moonshot.cn/) - **(长文本处理王者)** 支持 20 万字超长上下文，极其擅长文档阅读、资料整理和长文创作。
