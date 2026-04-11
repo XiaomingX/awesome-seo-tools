@@ -57,6 +57,7 @@
 * [Google Search Console](https://search.google.com/search-console/about) - 官方必备，监控索引状态、点击率及 Core Web Vitals 表现。
 * [Lumar](https://www.lumar.io/) (原 DeepCrawl) - 企业级云端爬虫，适合百万级页面的大型网站技术监测。
 * [Schema Markup Generator](https://technicalseo.com/tools/schema-markup-generator/) - 免费工具，快速生成结构化数据代码（JSON-LD）。
+* [toprank](https://github.com/nowork-studio/toprank) - **(开源 MIT)** Claude Code 插件，提供 9 个 SEO 和 Google Ads 技能。连接 Google Search Console、PageSpeed Insights 与 Google Ads API，自动审计流量、重写 meta 标签、生成 JSON-LD 结构化数据，并将修改直接推送到源代码或 CMS（WordPress、Strapi、Contentful、Ghost）。
 
 ---
 
