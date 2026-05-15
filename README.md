@@ -4,6 +4,7 @@
 
 利用人工智能加速内容创作、大纲生成及意图分析：
 
+- [WebCoreLab AI Audit](https://webcorelab.com) — 272-check AI-powered SEO audit + GEO/AEO visibility in ChatGPT/Perplexity/Google AI. AVI tracking, content factory, technical SEO.
 * [ChatGPT](https://chat.openai.com/) - SEO 人的必备助手，用于关键词头脑风暴、撰写 Meta 标签、生成内容大纲及正则代码。
 * [Perplexity AI](https://www.perplexity.ai/) - 实时联网的 AI 搜索引擎，适合调研搜索意图和获取最新素材。
 * [Claude](https://claude.ai/) - 处理长文本能力极强，适合分析长篇内容和优化文章逻辑。
