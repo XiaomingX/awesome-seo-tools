@@ -57,6 +57,7 @@
 * [Google Search Console](https://search.google.com/search-console/about) - 官方必备，监控索引状态、点击率及 Core Web Vitals 表现。
 * [Lumar](https://www.lumar.io/) (原 DeepCrawl) - 企业级云端爬虫，适合百万级页面的大型网站技术监测。
 * [Schema Markup Generator](https://technicalseo.com/tools/schema-markup-generator/) - 免费工具，快速生成结构化数据代码（JSON-LD）。
+* [SEO Audit Tool](https://seo.textools.site/) - **(自进化检测引擎)** 24 项 SEO 检测点，每周自动从 Google 官方来源更新规则，自动生成修复代码和优化 HTML 输出。免费基础扫描无需注册。
 
 ---
 
