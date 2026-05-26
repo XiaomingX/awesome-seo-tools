@@ -25,6 +25,7 @@
 * [Semrush](https://www.semrush.com/) - 综合能力最强，覆盖 SEO、PPC、社媒，且拥有强大的意图分析功能。
 * [SE Ranking](https://seranking.com/) - **(高性价比推荐)** 功能接近 Ahrefs/Semrush 但价格更亲民，适合中小团队。
 * [Ubersuggest](https://neilpatel.com/ubersuggest/) - 界面友好，适合新手和预算有限的个人站长。
+* [YT SEO Architect](https://yt-seo-architect.vercel.app) - AI 驱动的 YouTube SEO 平台，提供 17 种免费工具：关键词研究、标签生成、元数据审计和 Phronesis AI 增长教练。
 
 ---
 
