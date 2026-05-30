@@ -66,6 +66,7 @@
 
 * [Majestic](https://majestic.com/) - 拥有历史悠久的外链索引库，Trust Flow (TF) 指标极具参考价值。
 * [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker) - 目前公认更新最快、抓取能力最强的外链数据库。
+* [crawlgraph](https://crawlgraph.com/) - 基于 Common Crawl 公开网页图谱（4.4B 边、120M 域名）的外链情报工具，支持 CSV 导出。免费查询 5 次无需注册，$99 终身访问。适合竞品外链挖掘与外链拓展。
 
 ---
 
