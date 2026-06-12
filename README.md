@@ -57,6 +57,7 @@
 * [Google Search Console](https://search.google.com/search-console/about) - 官方必备，监控索引状态、点击率及 Core Web Vitals 表现。
 * [Lumar](https://www.lumar.io/) (原 DeepCrawl) - 企业级云端爬虫，适合百万级页面的大型网站技术监测。
 * [Schema Markup Generator](https://technicalseo.com/tools/schema-markup-generator/) - 免费工具，快速生成结构化数据代码（JSON-LD）。
+* [WebsiteReady](https://websiteready.org/?utm_source=awesome-seo-tools-xiaomingx&utm_medium=github_awesome_list&utm_campaign=wr_backlink) - 免费网站上线检查工具，覆盖 SEO 基础、可抓取性、sitemap、robots.txt、分析信号、安全响应头和 AI 搜索准备度。
 
 ---
 
