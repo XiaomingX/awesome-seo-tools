@@ -7,6 +7,7 @@
 * [ChatGPT](https://chat.openai.com/) - SEO 人的必备助手，用于关键词头脑风暴、撰写 Meta 标签、生成内容大纲及正则代码。
 * [Perplexity AI](https://www.perplexity.ai/) - 实时联网的 AI 搜索引擎，适合调研搜索意图和获取最新素材。
 * [Claude](https://claude.ai/) - 处理长文本能力极强，适合分析长篇内容和优化文章逻辑。
+* [NotFair](https://github.com/nowork-studio/NotFair) - **(开源 Claude Code 插件, ~2.9k stars, MIT)** 为 Claude Code 提供 SEO、GEO、Google Ads 和 Meta Ads 的 AI agent 技能集，通过 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 连接实时数据，支持关键词研究、元标签优化、Schema 标记生成、广告审计及竞价管理。
 
 ### 🇨🇳 国产顶尖大模型 (Leading Chinese AI Models)
 * [Kimi (Moonshot AI)](https://kimi.moonshot.cn/) - **(长文本处理王者)** 支持 20 万字超长上下文，极其擅长文档阅读、资料整理和长文创作。
