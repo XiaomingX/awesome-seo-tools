@@ -57,6 +57,7 @@
 * [Google Search Console](https://search.google.com/search-console/about) - 官方必备，监控索引状态、点击率及 Core Web Vitals 表现。
 * [Lumar](https://www.lumar.io/) (原 DeepCrawl) - 企业级云端爬虫，适合百万级页面的大型网站技术监测。
 * [Schema Markup Generator](https://technicalseo.com/tools/schema-markup-generator/) - 免费工具，快速生成结构化数据代码（JSON-LD）。
+* [Local Business Schema Generator](https://landing-five-dusky-44.vercel.app/schema-generator) - Free JSON-LD schema generator for local businesses (LocalBusiness, Restaurant, MedicalBusiness types). Instant preview and copy-paste code.
 
 ---
 
@@ -102,6 +103,7 @@
 
 * [PageSpeed Insights](https://pagespeed.web.dev/) - Google 官方工具，针对 LCP、INP、CLS 等核心指标提供改进建议。
 * [GTmetrix](https://gtmetrix.com/) - 提供可视化的瀑布流加载图，帮助定位拖慢网速的具体文件。
+* [Website Speed Comparator](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Free tool to compare your website's PageSpeed score vs. a competitor's side by side, using real Google PageSpeed Insights data. No signup required.
 
 ---
 
