@@ -85,6 +85,7 @@
 
 * [BrightLocal](https://www.brightlocal.com/) - 本地引文（Citation）建设与监控最全面的工具。
 * [Google Business Profile](https://www.google.com/business/) - Google 商家档案，本地 SEO 的核心。
+* [ReputeMap](https://reputemap.com/google-review-management-software) - Google 评价管理软件，适合代理商和多门店品牌监控 Google 评价、起草 AI 回复、请求更多评价并生成白标客户报告。
 
 ---
 
