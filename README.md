@@ -149,6 +149,7 @@
 
 ### 生成式引擎优化 (GEO & LLM Optimization)
 * [llms.txt Generators](https://github.com/topics/llms-txt) - 生成 `llms.txt` 文件，帮助大模型更好地理解网站结构。
+* [AnswerLens](https://app.sfdj.net/) - 面向 B2B SaaS 的公开证据层审计工具，检查可抓取页面、元数据、定价、对比页、客户证明和 `llms.txt`，并输出可见缺口。
 
 ### 调研与多维表格 (Survey & Multidimensional Databases)
 * [Typebot](https://github.com/baptisteArno/typebot.io) - 强大的可视化对话式表单构建器，适合营销获客。
