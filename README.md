@@ -25,6 +25,7 @@
 * [Semrush](https://www.semrush.com/) - 综合能力最强，覆盖 SEO、PPC、社媒，且拥有强大的意图分析功能。
 * [SE Ranking](https://seranking.com/) - **(高性价比推荐)** 功能接近 Ahrefs/Semrush 但价格更亲民，适合中小团队。
 * [Ubersuggest](https://neilpatel.com/ubersuggest/) - 界面友好，适合新手和预算有限的个人站长。
+* [Screpy](https://screpy.com/) - 集技术 SEO 审计、关键词排名追踪、Core Web Vitals、宕机监控和报告于一体的平台。
 
 ---
 
