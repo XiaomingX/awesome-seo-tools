@@ -149,6 +149,7 @@
 
 ### 生成式引擎优化 (GEO & LLM Optimization)
 * [llms.txt Generators](https://github.com/topics/llms-txt) - 生成 `llms.txt` 文件，帮助大模型更好地理解网站结构。
+* [Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - 精选的智能体电商（Agentic Commerce）与 GEO 资源清单：涵盖 ACP/UCP/MCP 协议、AI 可见性测试工具，以及让商品在 ChatGPT、Gemini 等 AI 购物助手中被推荐的实践指南。
 
 ### 调研与多维表格 (Survey & Multidimensional Databases)
 * [Typebot](https://github.com/baptisteArno/typebot.io) - 强大的可视化对话式表单构建器，适合营销获客。
