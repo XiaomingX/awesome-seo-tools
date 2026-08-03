@@ -93,6 +93,7 @@
 无需打开软件，浏览网页时即刻查看数据：
 
 * [Detailed SEO Extension](https://www.google.com/search?q=https://chrome.google.com/webstore/detail/detailed-seo-extension/pfjdepjjfctbkkjenheligmijakprfoh) - **(目前最佳)** 一键查看 Title、Description、Heading 层级、Canonical 标签及 Schema，轻量且免费。
+* [Broken Link Checker](https://chromewebstore.google.com/detail/broken-link-checker/cipdlgmjblnniiicohcmcafcncippbha) - 检查当前页面全部链接，识别失效链接和重定向，并可导出 CSV 报告。
 
 ---
 
