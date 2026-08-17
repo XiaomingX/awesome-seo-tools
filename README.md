@@ -25,6 +25,7 @@
 * [Semrush](https://www.semrush.com/) - 综合能力最强，覆盖 SEO、PPC、社媒，且拥有强大的意图分析功能。
 * [SE Ranking](https://seranking.com/) - **(高性价比推荐)** 功能接近 Ahrefs/Semrush 但价格更亲民，适合中小团队。
 * [Ubersuggest](https://neilpatel.com/ubersuggest/) - 界面友好，适合新手和预算有限的个人站长。
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ---
 
@@ -137,7 +138,7 @@
 
 
 ### CRM & ERP for SEO
-* [SuiteCRM](https://github.com/salesagility/SuiteCRM) - 高度可定制的开源 CRM，适合管理 SEO 客户和外链建设流程。
+* [SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) - 高度可定制的开源 CRM，适合管理 SEO 客户和外链建设流程。
 * [EspoCRM](https://github.com/espocrm/espocrm) - 轻量快速，适合代理商管理潜在客户和与 SEO 相关的项目。
 * [ERPNext](https://github.com/frappe/erpnext) - 全功能开源 ERP，内置对 SEO 友好的建站模块（Sitemap/Meta 标签控制）。
 * [Odoo](https://github.com/odoo/odoo) - 拥有强大的网站构建器模块，生成代码结构清晰，利于 SEO。
