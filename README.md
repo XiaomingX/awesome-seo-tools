@@ -149,6 +149,7 @@
 
 ### 生成式引擎优化 (GEO & LLM Optimization)
 * [llms.txt Generators](https://github.com/topics/llms-txt) - 生成 `llms.txt` 文件，帮助大模型更好地理解网站结构。
+* [geolint](https://github.com/iliasabk/geolint) - 开源的「AI 搜索版 ESLint」：审计 robots.txt 对 51 个 AI 爬虫的放行情况、校验 llms.txt、结构化数据与可引用性，52 条规则给出 0-100 评分和逐条修复建议，支持 SARIF、GitHub Action 与 MCP Server。
 
 ### 调研与多维表格 (Survey & Multidimensional Databases)
 * [Typebot](https://github.com/baptisteArno/typebot.io) - 强大的可视化对话式表单构建器，适合营销获客。
