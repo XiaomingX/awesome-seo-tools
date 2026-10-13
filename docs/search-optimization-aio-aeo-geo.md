@@ -8,6 +8,7 @@ Tools to help content appear in AI overviews (ChatGPT, Perplexity, Google SGE).
 - **[AI Monitor](https://github.com/topics/generative-engine-optimization)**: Tracks brand mentions across AI platforms like ChatGPT and Perplexity.
 - **[Optim👀 (AEO Site)](https://github.com/chikodilee/aeo-site)**: Analyzes websites against 20+ AEO factors to recommend improvements for AI visibility.
 - **[LLM Brand Tracker](https://github.com/sarahkb125/llm-brand-tracker)**: Monitors how your brand is perceived and cited by Large Language Models.
+- **[AnswerLine](https://answerline.dev)**: API returning what ChatGPT, Gemini and Google (Search, AI Overviews, AI Mode, News) answer for a keyword — structured JSON with cited sources and country targeting. Builds AIO/GEO monitoring on top of real AI answers.
 
 ## LLM Content Strategy & Optimization
 - **[RivalSee AI SEO](https://github.com/topics/ai-seo)**: Collection of open-source AI SEO tools for modern web apps.
