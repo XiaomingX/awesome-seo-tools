@@ -190,6 +190,7 @@
 * **Mobile Stats**: [Aptabase](https://github.com/aptabase/aptabase) - 极简的开源移动端分析工具，专注隐私，支持 Swift/Kotlin/React Native。
 * **ASO Tool**: [aso (Node.js)](https://github.com/facundoolano/aso) - 强大的 App Store/Google Play 搜索建议与排名数据抓取库。
 * **Traffic Est**: [Open Web Analytics](https://github.com/OpenWebAnalytics/owa) - 类似 Google Analytics 的开源版，支持热图和鼠标追踪，用于自身流量精细分析。
+* **Traffic Est**: [Vaneform](https://vaneform.com) - 免费网站流量与 SEO 查询工具，可查看任意网站的月访问量估算、流量来源、主要国家和关键词，并提供约 100 万网站的排行榜、API 与 MCP Server。
 * **Competitor**: [SerpBear](https://github.com/towfiqi/serpbear) - **(最佳平替)** 基于“关键词排名 x 搜索量”模型来估算竞品流量，最接近 Semrush 核心逻辑的开源工具。
 
 ### AI 搜索优化 (AIO & AEO)
