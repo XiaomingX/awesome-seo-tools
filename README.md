@@ -155,6 +155,7 @@
 * [Formbricks](https://github.com/formbricks/formbricks) - 开源的 Qualtrics 替代品，适合产品体验管理和应用内微调查。
 * [NocoDB](https://github.com/nocodb/nocodb) - 将 MySQL/PostgreSQL 转化为智能电子表格，自托管的 Airtable 替代品。
 * [Baserow](https://github.com/bram2w/baserow) - 开源无代码数据库，界面友好，扩展性强。
+* [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 ### 企业服务与呼叫中心 (Enterprise SaaS & Call Center)
 * [VICIdial](https://github.com/vicidial/vicidial) - 全球最流行的开源联络中心解决方案，支持预测式外呼。
