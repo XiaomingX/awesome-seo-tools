@@ -55,6 +55,7 @@
 
 * [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - **(业内标准)** 强大的爬虫工具，用于检测死链、重定向、标题缺失等技术问题。
 * [Google Search Console](https://search.google.com/search-console/about) - 官方必备，监控索引状态、点击率及 Core Web Vitals 表现。
+* [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - 通过远程 MCP 查询自有站点的 Google Search Console 和 Bing Webmaster Tools 数据；免费，需身份验证及站点授权。
 * [Lumar](https://www.lumar.io/) (原 DeepCrawl) - 企业级云端爬虫，适合百万级页面的大型网站技术监测。
 * [Schema Markup Generator](https://technicalseo.com/tools/schema-markup-generator/) - 免费工具，快速生成结构化数据代码（JSON-LD）。
 
