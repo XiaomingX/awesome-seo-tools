@@ -7,6 +7,7 @@
 * [ChatGPT](https://chat.openai.com/) - SEO 人的必备助手，用于关键词头脑风暴、撰写 Meta 标签、生成内容大纲及正则代码。
 * [Perplexity AI](https://www.perplexity.ai/) - 实时联网的 AI 搜索引擎，适合调研搜索意图和获取最新素材。
 * [Claude](https://claude.ai/) - 处理长文本能力极强，适合分析长篇内容和优化文章逻辑。
+* [ListAIHub](https://listaihub.com/) - 全球精选 AI 智能体与开发者 API 导航目录，支持 MCP 协议与模型自动化交互。
 
 ### 🇨🇳 国产顶尖大模型 (Leading Chinese AI Models)
 * [Kimi (Moonshot AI)](https://kimi.moonshot.cn/) - **(长文本处理王者)** 支持 20 万字超长上下文，极其擅长文档阅读、资料整理和长文创作。
@@ -57,6 +58,8 @@
 * [Google Search Console](https://search.google.com/search-console/about) - 官方必备，监控索引状态、点击率及 Core Web Vitals 表现。
 * [Lumar](https://www.lumar.io/) (原 DeepCrawl) - 企业级云端爬虫，适合百万级页面的大型网站技术监测。
 * [Schema Markup Generator](https://technicalseo.com/tools/schema-markup-generator/) - 免费工具，快速生成结构化数据代码（JSON-LD）。
+* [SEOCheck-AI](https://seocheck-ai.com/free-seo-check) - 实时网站技术 SEO、Core Web Vitals 和 AI 搜索引擎爬虫可访问性诊断分析工具。
+* [SEOAudit](https://seoaudit.com.ua/) - 企业级网站技术 SEO 审计与内部链接图谱分析平台。
 
 ---
 
