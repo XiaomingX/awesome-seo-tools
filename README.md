@@ -25,6 +25,7 @@
 * [Semrush](https://www.semrush.com/) - 综合能力最强，覆盖 SEO、PPC、社媒，且拥有强大的意图分析功能。
 * [SE Ranking](https://seranking.com/) - **(高性价比推荐)** 功能接近 Ahrefs/Semrush 但价格更亲民，适合中小团队。
 * [Ubersuggest](https://neilpatel.com/ubersuggest/) - 界面友好，适合新手和预算有限的个人站长。
+* [GoAnyAPI](https://goanyapi.com/) - 面向 AI Agent 的一站式 SEO 数据 API 与 MCP 服务：关键词难度与建议、搜索量、外链、域名评分、网站流量、SERP 以及 Google Ads Transparency 广告数据，支持 Claude Code、Cursor、Codex 等 MCP 客户端直接调用。
 
 ---
 
