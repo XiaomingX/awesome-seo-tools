@@ -25,6 +25,7 @@
 * [Semrush](https://www.semrush.com/) - 综合能力最强，覆盖 SEO、PPC、社媒，且拥有强大的意图分析功能。
 * [SE Ranking](https://seranking.com/) - **(高性价比推荐)** 功能接近 Ahrefs/Semrush 但价格更亲民，适合中小团队。
 * [Ubersuggest](https://neilpatel.com/ubersuggest/) - 界面友好，适合新手和预算有限的个人站长。
+* [zaDojo](https://zadojo.com/) - 面向 AI 智能体的 SEO 与 GEO 平台（MCP 服务器 + Claude Code / Codex / Cursor 插件）：免费接入 Google Search Console 与 Google Analytics，并提供 SERP、关键词研究、排名追踪，以及 ChatGPT、Gemini、Perplexity、Google AI Overviews 中的 AI 可见度追踪（付费数据按量计费，可选）。
 
 ---
 
