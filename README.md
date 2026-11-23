@@ -149,6 +149,7 @@
 
 ### 生成式引擎优化 (GEO & LLM Optimization)
 * [llms.txt Generators](https://github.com/topics/llms-txt) - 生成 `llms.txt` 文件，帮助大模型更好地理解网站结构。
+* [CiteReady](https://citeready-checker.appwrite.network) - 免费免注册的 AI 搜索就绪度 (GEO) 体检工具与开源 MIT CLI，检测 10 大 AI 爬虫放行状态、在线生成与校验 `/llms.txt`，并提供 Schema.org JSON-LD 实体图谱构建器。
 
 ### 调研与多维表格 (Survey & Multidimensional Databases)
 * [Typebot](https://github.com/baptisteArno/typebot.io) - 强大的可视化对话式表单构建器，适合营销获客。
