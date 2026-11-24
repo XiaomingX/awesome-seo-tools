@@ -201,6 +201,9 @@
 * [Appsmith](https://github.com/appsmithorg/appsmith) - **(最流行)** 开发者优先的开源内部工具构建平台，支持拖拽 UI 和 JS 逻辑。
 * [ToolJet](https://github.com/ToolJet/ToolJet) - 扩展性极强的低代码框架，支持 Python/JS，拥有丰富的集成插件。
 * [Budibase](https://github.com/Budibase/budibase) - 专注于速度和易用性，通过简单的 GUI 快速构建 CRUD 应用。
+* [Google 广告透明度 MCP：竞品广告](https://apify.com/publicrecords/google-ads-transparency-scraper) - 从 Google 广告透明度中心获取竞品新投放、投放中和已停止的 Google 广告，含首次和最后展示日期 (Apify).
+* [Etsy 搜索 MCP：商品、价格与畅销品](https://apify.com/publicrecords/etsy-search-scraper) - 按关键词或类目获取 Etsy 搜索结果：价格、评分、评论数、Bestseller 徽章、广告标记和搜索排名 (Apify).
+* [公司社交账号 MCP：从官网找到 LinkedIn 与社交链接](https://apify.com/publicrecords/company-social-profile-finder) - 根据公司名称或官网，找到其 LinkedIn、X、YouTube、Instagram 和 Facebook 账号，并附证据 (Apify).
 
 ### 在线 IDE 与开发环境 (Online IDEs)
 * [Coder](https://github.com/coder/coder) - **(自托管)** 在自己的基础设施（Kubernetes/Docker）上部署远程开发环境。
